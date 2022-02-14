@@ -1,0 +1,27 @@
+[
+  {
+    "CodeProduct": 1,
+    "NameProduct": "хлеб",
+    "PriceProduct": 39.560000000000002
+  },
+  {
+    "CodeProduct": 2,
+    "NameProduct": "Молоко",
+    "PriceProduct": 67.870000000000005
+  },
+  {
+    "CodeProduct": 3,
+    "NameProduct": "Яйца",
+    "PriceProduct": 67.849999999999994
+  },
+  {
+    "CodeProduct": 4,
+    "NameProduct": "Картошка",
+    "PriceProduct": 67.890000000000001
+  },
+  {
+    "CodeProduct": 5,
+    "NameProduct": "колбаса",
+    "PriceProduct": 67.859999999999999
+  }
+]

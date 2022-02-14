@@ -1,0 +1,27 @@
+[
+  {
+    "CodeProduct": 1,
+    "NameProduct": "Хлеб",
+    "PriceProduct": 30
+  },
+  {
+    "CodeProduct": 2,
+    "NameProduct": "Молоко",
+    "PriceProduct": 60
+  },
+  {
+    "CodeProduct": 3,
+    "NameProduct": "Сыр",
+    "PriceProduct": 600
+  },
+  {
+    "CodeProduct": 4,
+    "NameProduct": "Яйца",
+    "PriceProduct": 70
+  },
+  {
+    "CodeProduct": 5,
+    "NameProduct": "Мясо",
+    "PriceProduct": 600
+  }
+]
